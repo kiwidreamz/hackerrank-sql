@@ -1,6 +1,6 @@
 # My SQL solutions for HackerRank problems
 
-I decided to create this repo to keep a copy of all my solutions to hackerrank SQL problems I manage to pass.
+I created this repo to keep a copy of all my solutions to hackerrank SQL problems I manage to pass.
 
 HackerRank is a tech company that focuses on competitive programming challenges for both consumers and businesses, where developers compete by trying to program according to provided specifications.
 
